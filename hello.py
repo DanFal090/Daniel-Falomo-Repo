@@ -56,12 +56,12 @@
 #print(y)
 #print(z*3)
 
-name = input("What is your name?: ")
-age = input("How old are you?: ")
+#name = input("What is your name?: ")
+#age = input("How old are you?: ")
 
-age = int(age) + 1
-print("Hello, " + name)
-print("Your age is " + str(age)+" years old")
+#age = int(age) + 1
+#print("Hello, " + name)
+#print("Your age is " + str(age)+" years old")
 
 
 
